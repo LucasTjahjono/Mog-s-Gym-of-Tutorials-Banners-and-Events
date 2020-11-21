@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    background-color: green;
+    margin-right: 18%;
+    margin-left: 18%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+}
+
+
+.imagebanner {
+    background-image: url("images/Protagonistdraw2.jpg");
+    padding: 265px 0;
+}
